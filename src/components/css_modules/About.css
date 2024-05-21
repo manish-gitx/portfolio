@@ -52,7 +52,7 @@ left: 21px;
 width: 328px;
 height: 360px;
 top: 4.11%;
-background: url('D:\coding\portfolio\src\images\mirror.jpg');
+background: url('./mirror.jpg');
 background-size:cover;
 background-repeat: no-repeat;
 
