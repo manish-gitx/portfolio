@@ -9,7 +9,7 @@ export default function Nav() {
           <div>
           <ul className={styles.points}>
                 <li>About</li>
-                <li>Work</li>
+                <li>Edcation</li>
                 <li>Projects</li>
                 <li>Contact</li>
                 <button>Download CV</button>
