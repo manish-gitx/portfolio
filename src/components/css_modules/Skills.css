@@ -7,7 +7,14 @@
     padding: 96px 0px;
     flex-direction: column;
     align-items: center;
+    gap:20px;
     justify-content: center;
+}
+.description-txt{
+color:#4B5563;
+font-size: 1.25rem;
+line-height: 1.75rem;
+
 }
 .span-btn{
 background: #E5E7EB;

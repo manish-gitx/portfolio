@@ -8,7 +8,7 @@ return(
 <div className="p-header" >
 <span className="span-btn">Connect</span>
       <div className="about">
-      <p >What’s next? Feel free to reach out to me if you
+      <p className='description-txt'>What’s next? Feel free to reach out to me if you
         for anything related to tech and oppurtunites</p>
 </div>
 

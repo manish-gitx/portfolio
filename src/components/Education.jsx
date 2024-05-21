@@ -72,7 +72,7 @@ export default function Education() {
     <div className="edu-container">
                   <div className="About">
                 <span className="span-btn">Education</span>
-                <p>Here is a quick summary of my education</p>
+                <p className="description-txt" >Here is a quick summary of my education</p>
             </div>
 
 

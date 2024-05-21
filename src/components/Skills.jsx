@@ -44,7 +44,7 @@ export default function Skills() {
       <div className="about">
         <span className="span-btn">Skills</span>
       </div>
-      <p>The skills, tools and technologies I am really good at:</p>
+      <p className="description-txt">The skills, tools and technologies I am really good at:</p>
       <div className="skills-grid">
         {skills.map((skill) => (
           <SkillItem
