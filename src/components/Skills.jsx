@@ -41,7 +41,7 @@ const SkillItem = ({ name, link, imgSrc, imgAlt }) => (
 export default function Skills() {
   return (
     <div className="main">
-      <div className="about">
+      <div  style={{ textAlign: "center" }}  className="about">
         <span className="span-btn">Skills</span>
       </div>
       <p className="description-txt">The skills, tools and technologies I am really good at:</p>

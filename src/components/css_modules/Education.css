@@ -20,6 +20,9 @@ color: #111827;
     align-items: center;
     padding-bottom: 30px;
 }
+.p-container{
+    padding: 96px 80px;
+}
 
 .edu-info{
     display: flex;
