@@ -14,7 +14,7 @@ const info=[
     ],
   },
   {
-    logo: "https://scontent.fndc1-1.fna.fbcdn.net/v/t39.30808-6/304024011_578755967283042_6609828598676413841_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mosLN-rA6boQ7kNvgGErJZd&_nc_ht=scontent.fndc1-1.fna&oh=00_AYBQPj7c9M_62NCIQLq7YcvRb7V2Gi_4VSohnrDjgDi-Wg&oe=66520173",
+    logo: "https://directory.edugorilla.com/wp-content/uploads/sites/6/2017/10/bannnn.jpg",
     startDate: new Date(2021, 4),
     endDate: new Date(2023, 3),
     position: 'College',
