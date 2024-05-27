@@ -19,7 +19,7 @@ export default function About() {
                 <div className="info">
                     <p className="bold">Curious about me? Here you go</p>
                     <p className="info-text">
-                        I study at Scaler School of Technology and I believe in bringing ideas to life. I value things like consistency and discipline. If you want to know more about me, feel free to reach out!
+                        I study at Scaler School of Technology and I believe in bringing ideas to life.
                     </p>
                     <p className="info-text">
                         When I'm not coding, you can find me exploring new technologies and learning new skills. I'm always looking for ways to improve and grow as a developer.
