@@ -1,5 +1,8 @@
 import React from "react";
 import styles from "./css_modules/Header.module.css";
+import TypeWriter from "./TypeWriter";
+
+
 
 export default function Header(){
     return (
@@ -7,7 +10,7 @@ export default function Header(){
 
             <div className={styles.info}>
                 <div className={styles.info1}>
-                    <h1>Hi, I'm Manish👋</h1>
+                <TypeWriter className={styles.h1_text} text={["HI IM MANISH","MERN STACK DEVELOPER"]} typingSpeed={100} deletingSpeed={50} />
                     <span className={styles.myspan}>
                         I'm a full stack developer, currently pursuing my undergrad in scaler school of technology, I have been creating web applications for a long time and I'm a self-learner, ready to code anything at anytime
                     </span>
