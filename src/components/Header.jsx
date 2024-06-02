@@ -10,7 +10,7 @@ export default function Header(){
 
             <div className={styles.info}>
                 <div className={styles.info1}>
-                <TypeWriter className={styles.h1_text} text={["HI IM MANISH","MERN STACK DEVELOPER"]} typingSpeed={100} deletingSpeed={50} />
+                <TypeWriter  text={["HI IM MANISH","MERN STACK DEVELOPER"]} typingSpeed={100} deletingSpeed={50} />
                     <span className={styles.myspan}>
                         I'm a full stack developer, currently pursuing my undergrad in scaler school of technology, I have been creating web applications for a long time and I'm a self-learner, ready to code anything at anytime
                     </span>

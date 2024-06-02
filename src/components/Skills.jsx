@@ -40,7 +40,7 @@ const SkillItem = ({ name, link, imgSrc, imgAlt }) => (
 
 export default function Skills() {
   return (
-    <div className="main">
+    <div id="Skills" className="main">
       <div  style={{ textAlign: "center" }}  className="about">
         <span className="span-btn">Skills</span>
       </div>

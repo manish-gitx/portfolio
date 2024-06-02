@@ -3,6 +3,9 @@
     background-color: #F9FAFB;
 
 }
+html {
+    scroll-behavior: smooth;
+  }
 .About{
     text-align: center;
     padding-bottom: 48px;

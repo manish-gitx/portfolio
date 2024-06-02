@@ -4,7 +4,7 @@ import styles from './css_modules/Header.module.css'
 
 export default function Projects() {
 return(
-    <div className='p-container'>
+    <div id="Contact" className='p-container'>
 <div className="p-header" >
 <span className="span-btn">Connect</span>
       <div className="about">

@@ -69,7 +69,7 @@ function Education_nav(props){
 
 export default function Education() {
   return (
-    <div className="edu-container">
+    <div id="Education" className="edu-container">
                   <div className="About">
                 <span className="span-btn">Education</span>
                 <p className="description-txt" >Here is a quick summary of my education</p>
